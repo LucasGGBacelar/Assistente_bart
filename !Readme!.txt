@@ -19,7 +19,7 @@ caso contrário há uma grande possibilidade de dar erro no código;
  todas as dependências do pyttsx3 estejam instaladas corretamente e atualizadas para a versão mais recente.
 
 
-⁕ O leitor de pdf requer que seja colocado o arquivo pdf na mesma pasta do código.
+⁕ O leitor de pdf requer que o arquivo em pdf esteja na mesma pasta do código.
 
 
 Os comandos são: 
