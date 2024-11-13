@@ -137,13 +137,7 @@ while True:
                 pygame.display.update()
 
         ##################################################
-        elif comando == "nada":
-            break
 
-        elif time.time() - temporizador > limite_sem_audio:
-            break
-            engine.runAndWait()
-        #######################################################################
         elif comando == "pergunta":
 
             os.environ['_BARD_API_KEY'] = "xxxxxx"
@@ -168,7 +162,7 @@ while True:
                 engine.say(resposta)
                 engine.runAndWait()
         ###########################################################################
-        elif comando == "leitura":
+        elif comando == "leitor de PDF":
             speaker = pyttsx3.init()
             engine.say('Diga o nome do livro')
             engine.runAndWait()
