@@ -19,7 +19,4 @@ Jogo ->  Um simples "jogo da cobrinha"
 Leitura -> ultiliza de um leitor de pdf para ler o aquivo pdf de sua preferência (Leia o topico acima!)
 
 
-
-caso aconteça algum erro tente rodar o código novamente, caso não funcione me mande um email!
-
 Email de contato -> lucas.bacelar@yahoo.com
